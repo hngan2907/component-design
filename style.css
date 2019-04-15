@@ -1,6 +1,8 @@
 .header {
-  margin: auto;
-  padding: 15px;
+  padding: 20px;
+  background: white;
+  color: #000066;
+  font-size: 30px;
 }
 
 .nav {
